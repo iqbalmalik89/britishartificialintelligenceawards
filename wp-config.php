@@ -19,6 +19,7 @@
  *
  * @package WordPress
  */
+define('FS_METHOD', 'direct');
 
 
 define('WP_HOME', 'http://project.codekernal.com/britishartificialintelligenceawards');
