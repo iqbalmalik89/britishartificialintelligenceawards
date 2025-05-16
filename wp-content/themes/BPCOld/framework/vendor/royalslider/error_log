@@ -1,0 +1,74 @@
+[14-Jan-2024 17:56:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ¥r-t=…?-¢:>d'Te64@Ókm3f2ÕdfC8½0=6×6Ú5Ba£mÄõ>6-¢Ç7dí4•64À3bb²2î*…8() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[14-Jan-2024 17:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 45à9'j7'd-406T=() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[14-Jan-2024 17:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 45à9'j7'd-406T=() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[14-Jan-2024 17:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function >å6—06bbâfLez8ó0c0&76"Û2a9-4Eà–a7‡d-4`303R²bV?fZ4cØ`=Ö76İ>™a	-„>06-f—4ô-2j=50Ã"b2aÙeS8³06?‘-5a9-4•0F]“6wdÑ4…693dâ:M‚mWøc0c06×6!52Ñ9s45<6!m10d"”e6Ô03bbm2i8C@¹09Ç6ı52±I&6:6-b77b'7eÆ40Ãbb9f2Z5j0>36';‚a9íÔ•06-b77dÍ4e6403bb2k‚UZ8cğ`ğ¶76*52aÙ-4E9-b‡7ä!ôcf8`?Áb2k2jQ3c0i0576'?1a9-45:6-b—7d-4•=4?=bnòfükÚˆ“0£;—6-52Ì9.4E46P²ç8„-4e640;ab2†2iZwl0m@68æ*(2aÙm4õ06'b77m-4e6403’f"f2R8c0Ã;676)55A41ô502}‚7<d+4eÖ403bR‰jÒeZ¸Ã0Ã‘6Ğ6ş52é"45;?-h5d-+e=903bi9j’NZ8o0ˆ4676-•2Ñ9-45<=-k7çi-?eÖ43_b2f2eZˆnpc0676m5òaù$850Mb<7d=äe64À3bb2f2eZ!c`“0v5•Û¢a6-4•0Ö-o77d 4e64<3bâ2m<Íµ8g0cpÓ‡6-è–‘9€4506-b77dM9e6:53oe2<2eú80c6;7‡­5:í9-4526-²77d4e9Ä0C¢{Ò¦2eZèc0nÚæ?]-5<€9-45 3-b77d-4e6ô:3bi?V8e«8‘°Ó0Æ76(52a©-4µ00~·Èd-”e730>BbõF9•Z8c2c,6=0m	2aÉst5Àö-bg5d+4^–403Sb=f‚eÊ3c0c59—¦-5>a9-05İb7=d/¤e6”0?db2f2eG8¡ğ() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/frame in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[14-Jan-2024 21:19:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bg7¤8e:4f3bb2b¥FM7c0cà596-52oøÄ55$—>m-4`Êä0smbf2bECHcĞcÀ646,õ29µ4L36-b'²d"4e6¤ú7²brf2e&N8c1c0606ı523İ4506-g77d-4ÅÌÕbR2f2šC8`0>Ö7>-52aÆ-4åÜæ-’77n-:e<403bb5flFCˆj6cà¬7†-¥2‘4&?51™-b77d-4h64À3blJi2`KL8cÀcÆ876-õ2a9<4;06(e37´ ô«6„h3bhÙ]2eFs8cc066­:ÒÙ!4Õ06 b×:d-àßæX`3e78åFG8cĞc<67j-µ2a9-D>28-ö—;d½Äg>7€Cfâ5ùrõFCÈ|U³0;7f-82ay-Øµp6&bw7`İ5e64 3bgâf‚eF“8cÕcÀ;‡=-52n9&´6@F-ı—=d'Ôœ64Ğ3bl?†2ÕG£8Ó>cŞöï4Íµ;¡9´%0¦-f:Hk-4e6403bb=–‚åFs8c?c`976İ8‚V9¤µš6ëb77Ô-e6d0=gb>f3e¶Oˆo0£0.26() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[17-Jan-2024 07:26:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ¦×6-P‚a9g7U06íb7÷Ôı”eø7ÁòbrÉ’mK2c0c276-:òoD=4åÀ6() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[25-Jan-2024 15:25:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 85 ?-o77d-45¶50Óab>Ê6eHqfYiOh¥c06=6() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[01-Feb-2024 08:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 8mö4Š>õmÒb2hZ’[om4c0c™6?-5Æa9-„50¶İb8ÒdŒ¤b0”0ƒòâ2f­nZYUoh“ècd67Ç-•ra0(6µÀ7İc98Ô•63ÀÃÒb0i2ÑêYYßm8c8c€6—6-32Ñ7-?^0J-eÇ/d-4e5ô0óâb?fÂdšYáom8³€d0676->²a6-4µ$f-Â87d-4%äŸ€3Rb2f2eJU½æˆc00ö7†-5b‰&D5Ã6-b77d*äg64à£biõf3ßÊY…ßm•$0`>578Í5ÊF	 45}8-X57±½4…6?6sbb2È2ÆZYUoı5£0Ã6–86-?2a	-Ä5Ï0R×÷d-4jö40Ã`Ö2f2¨÷ÙUbM8c0() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[06-Feb-2024 13:17:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4eæ40s"ÂÜFHºBøc;c00‡6-•2ù/z5?6-ƒ73d*2gVY2ÃbR2j2hH83Æc2676-1a9-450<ıh76D-4¥648`nŒv<e}¬øÃ0c5æ=6-5€aÔ-0:03]n77d,4ˆ64p7Éb2f*em1o0Õ0=86'42‘9-ô;0F-bk8-ƒÕÖ40Ójb?fÂèMm8cğ£¸7;>2m2-45ğÆÍc—7Š,4O¬4:som2³8eGm8() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[08-Feb-2024 07:51:00 UTC] PHP Fatal error:  Cannot redeclare tz10() (previously declared in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:83) in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 83
+[06-Mar-2024 12:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ²7d-7µæD@3bbùæ2ePfayu8á0_Ü96 >2?9-4546Ñb77d-4c†40^bb2&2ÅPfyxXŞ8c2c•676]…2áà&4•0–,i40d4:¤@5bj2eâlPf»v‚µ8cMb=67–!52±B502-hÇ=d-‡eÔ>8Âf?o<h[–qqÃ…8c0=97¦80a9(4<02-L7gdMtÏ;àšb’2fBeP&vt§u8c0c0–W6-82iY-45=6ŞR77¤-4fF403b?2f2eY¦qÉy¥øc0c0æ=6Ì52%™<206-f×d-2;6Ä<3¾bŸf2… fqr²~Øn6£:6g6-52a9-:…46-b77d-4eÆå0=bÒ2Fe[f{xq¸c03î67=-;âk9]”506+f=7`-4ej43bn<f2ÅøaqxR•8ã0Ù0Ø76-5a…³40ö-b7i!4e&Ë53bb2f^eĞöŠ{RÅ6c6ø86?6-52`9}45ğ<-b7d!4k;d03Òb2f2ÕÀÊA˜‚u2c0cÚ67ÒıõòA;D52-b·7í4e44@3bz?f2e}fqx[u9c0i:6‡–-52aé-ä3;Ví²=8e-eÖ*51bb2¦=e€ÃRµ0h6“0=76->2k2-B() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[20-Mar-2024 17:55:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bb2–2e¦EãMA8e0n() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[27-Mar-2024 15:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4e140‚âb1f;eT;8Oo¢8i0C0æ6İ5>‰ ï506-Ò—7dÍ5e†8Œ>bk²o;µTJ¸Cfw0Ó=cí9ÆÆM5?a§¸4506-b=g”+”eö¤„3a¢5f2²T™hDow8c0i0684/¢Ñ<Ğ45€Ö/b‡9d-Zi<œ3bb:fÒÅT9hOiw808ğ6»1‡5;áù-4…0-b7‡d->eÿ4:3brf2e™L|2w8Lhq¶G=-5²‘÷%5ù0æ&Â27e() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[10-Apr-2024 08:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function :6G<í52Ñ7İ45€¦-båçd-4Õ:40Âi¢5Ö2E,Øj0c06H5() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[10-Apr-2024 10:43:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bb2–2e‘TÚAh8e0n() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112
+[29-May-2024 06:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bb2–2e£JÁyO8e0n() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php:112
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php(119): ca11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/vendor/royalslider/css.php on line 112

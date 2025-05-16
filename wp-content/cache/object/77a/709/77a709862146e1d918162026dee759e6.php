@@ -1,0 +1,1 @@
+w»P`<?php exit; ?>a:1:{s:7:"content";s:223:"a:3:{i:0;O:8:"stdClass":2:{s:7:"form_id";s:1:"1";s:11:"entry_count";s:1:"3";}i:1;O:8:"stdClass":2:{s:7:"form_id";s:1:"2";s:11:"entry_count";s:1:"9";}i:2;O:8:"stdClass":2:{s:7:"form_id";s:1:"3";s:11:"entry_count";s:2:"25";}}";}

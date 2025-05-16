@@ -1,0 +1,8 @@
+[05-Oct-2023 23:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ez() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/css/css.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/css/css.php on line 3
+[05-Oct-2023 23:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ez() in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/css/css.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/framework/css/css.php on line 3

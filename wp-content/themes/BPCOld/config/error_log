@@ -1,0 +1,18 @@
+[11-Aug-2024 05:25:33 UTC] PHP Notice:  Undefined variable: ln37s9 in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php on line 241
+[11-Aug-2024 05:25:33 UTC] PHP Notice:  Undefined variable: is9 in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php on line 163
+[11-Aug-2024 05:25:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php on line 163
+[11-Aug-2024 05:25:33 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php:163
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php(171): bf12(NULL, '2811292a12036e0...', 'KcLK')
+#1 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php(241): pa10(NULL, '2811292a12036e0...', 'KcLK')
+#2 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php on line 163
+[11-Aug-2024 05:25:34 UTC] PHP Notice:  Undefined variable: ln37s9 in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php on line 241
+[11-Aug-2024 05:25:34 UTC] PHP Notice:  Undefined variable: is9 in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php on line 163
+[11-Aug-2024 05:25:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php on line 163
+[11-Aug-2024 05:25:34 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php:163
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php(171): bf12(NULL, '113e3f002108390...', 'rLZaUm')
+#1 /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php(241): pa10(NULL, '113e3f002108390...', 'rLZaUm')
+#2 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/themes/BPCOld/config/image.php on line 163

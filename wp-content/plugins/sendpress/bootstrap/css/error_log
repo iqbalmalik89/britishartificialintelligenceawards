@@ -1,0 +1,70 @@
+[14-Jan-2024 17:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function R8d91„03anc0öBT0Â¸iaÔã'ffcÇ-4·<ã-o1;n-Ü7d8803abe7F²Ä4b2eÁd“gc-÷ƒ9-c51ƒ-n9934;3bÅ;FBd4d1…¡”3ÕfMc1ö–79ÇÈ„1“-Ò7o93403ab•7öùV9B8emj3-fc:m47?9-«51c-;Gd<3403obeÇKBäï²9ego?-kvcçı47ïÊ"bÕ1Ó-b=n9Ó40ôj‚e7FB4Tb8i`d3=ffe7-4‡29-b51V-`×k<s78fbÕ·¶B44Â8UátÃ-ö†Ç7&472-bE1cİb<d934=1abe7FD44møÕadÓ-¦hMÆ-´39-n51cíò7dÉ34=7!be7FÂ44â8oaeñÍfn3;-4539-d54i-b9Ä0<9!:aheçFB41b;eab3mflc7-0784-¢5Qc]w7ä‰ã50abe5F"1”²ˆeNd8fc7C:932b<8dB—d93D Óabd7FL.4e8eadS() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[14-Jan-2024 17:57:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b51c=b—h33>03oe˜renm]49`ea”Ãffd?-t7>9Mb55ƒ-b8ê™³4>3aŸ?ÒfnbR44b e.d3-¶fc7m4G9-bÅd+®7Ş93„63abÕ8|h¾iy49b4ead<ımfc;-$739 "3Ñ£‡\7iÙ3403nbe1rinmRô>b5eÚÔ½ff¢7-47©b1Ác() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[14-Jan-2024 18:00:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b7d93403Ï²µ;xšaH”²8e¡d3-ic7 d4Ãó-d51c(i7d4340Óabk7pê;H44g6ej=efc7®;39FÂ51c-bšh934@3abe7xWcG44kãød7-ff() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[01-Feb-2024 08:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function :<;¡bß:ÓAÔ0b5eªj3-jfc7„4?9-–51cb7äÉ3;Õ3Àòb1äN„¤â8eşo3-fffİì7g9-“5‘() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[06-Feb-2024 13:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function jfN:É729-l>?m-²7l©0?0‹Ábf7ŞNK?8b(eaf3-mfƒ7­2739-b>1c]b²d	c4¹2ab5‚AK44r8e‘b3-&Vs>-89<9-fĞÓ+o?dC3403c’…7NAK44b8dad3-vfc7-47ƒ9ıb51cÂbWa9>$03º‚e‡NAK4ÛÂÈehoƒßfÎû-5=Ó9() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[29-Feb-2024 01:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 9Ml51£í’7d:40óhje7øvcK[a1½‘4Åad9-ff£7-473™-51Ò-b7d63403alÅ7XvcEŠÛÔbìea<³&ffi7-47^9-RÑc ’‡dÉ34°ãhbmÈĞvc«
+›T:"8eadã@ff°Ç%ä2ì"<2cTa­dù244Ù‹’Õ78vc«ZÛz4Ò8eafC-†fl—-tw9+b51f)B7d9:403afe7XöILZn44jˆah3-6kƒ‡ö47?I)^›AÃ-b7d9<40NÑi7vcOZ‹4d¤D:-kc7-59Æ9%5!c,‚7´9Z:33ane?‹v„*k4Äb8²\d3-fi8-4wb4İb5Ñ•b7k;£Öœã¡Òe7X¹‹Zk9”">eñdÜİfan=-4?3:-bõ1c-’5gÛ3:4:aâe÷QzšÔZ»43bbbadì-Æ†c7-¤739 b¥:k³È‡n924>3ooÈ=X†cKZkö4â8~nd“-Ff3—-?—S9Òb51!b7d934ş{abe×XveA[k?4 8`ad3-ffnç„:39-b:1c-b
+”9>„<3±be7¨lIæk™áb7eaİ3-f6cñ-873;qb>1c-b÷37 3AÄ˜;T{cCŠk52bØ•a”c½föÃó-Õ39İŸ{c"jûi73ğ0Ã±bE—X–CAZkÔ`8ÜegÃÍ¦d­:Q$739İb5ñCb7d?39() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[06-Mar-2024 12:10:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function båán-Â÷d93„93abe7m44b8ekdó-f]h7í4×33mb51c-Ã9d95Í>3ke7m44be¡d3-Ïh873‰Ö`4ac-a7d9<40óki`7n19b8ao³fkm1M4739-Å‹i-b;d•3403abÕ7İ4>l8ead3½cfc7-49s¶-be4`=a7T96Äı3ke7Í>Ä28¨)dèöf·c<:=é'‚5!c-bÇd93=À3Qaj7m44b3oag3 ff() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[03-Apr-2024 11:31:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ²fhW(ôw3;Ud89c-b793”à3±bk7œG4b8oag3%ffƒ7-?÷3<-b39½-b7d91:0<ab7`çø;aø-l3-fÖc-4W99=f51c-b7„Y() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[03-Apr-2024 18:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Ô÷M7-b51Í-µ7d93TÕ3aeõ7LxíT7b3e‘lc-ff07Ü39(b5	c-K<h9>4?3lbe‡XDx=44aØuah0-flß7=4721-bE:i-ÂWd93406a’å7X“(mÄ4¢8ebd3-fFc=() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[24-Apr-2024 10:01:18 UTC] PHP Fatal error:  Cannot redeclare wl10() (previously declared in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:80) in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 80
+[01-May-2024 11:19:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 9Ml51£í’7d:40óhje7åDYuMf1½‘4Åad9-ff£7-473™-51Ò-b7d63403alÅ7EDY{œÜÔbìea<³&ffi7-47^9-RÑc ’‡dÉ34°ãhbmÈÍDY•œT:"8eadã@ff°Ç%ä2ì"<2cTa­dù244Ù‹’Õ7%DY•LÜz4Ò8eafC-†fl—-tw9+b51f)B7d9:403afe7EÄsrLi44jˆah3-6kƒ‡ö47?I)^›AÃ-b7d9<40NÑi7DYqLŒ4d¤D:-kc7-59Æ9%5!c,‚7´9Z:33ane?–D)º<l4Äb8²\d3-fi8-4wb4İb5Ñ•b7k;£Öœã¡Òe7E¿ƒµLl9”">eñdÜİfan=-4?3:-bõ1c-’5gÛ3:4:aâe÷LH êL¼43bbbadì-Æ†c7-¤739 b¥:k³È‡n924>3ooÈ=E´YuLlö4â8~nd“-Ff3—-?—S9Òb51!b7d934ş{abe×ED_Ml?4 8`ad3-ffnç„:39-b:1c-b
+”9>„<3±be7µ$Vwğl™áb7eaİ3-f6cñ-873;qb>1c-b÷37 3AÄ˜;IIY}œl52bØ•a”c½föÃó-Õ39İŸ{c"jûi73ğ0Ã±bE—E¤yLlÔ`8ÜegÃÍ¦d­:Q$739İb5ñCb7d?39() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[15-May-2024 08:38:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iaÓ7ï‰7c1­e51°(b7Û99?0Ó1a•7Rk8;e8gcjØ-ff·ıÄ×3?ıb=1Ü.kÇŸ933Ï=¦beZYa´	öhad3-ffb7ía==>b…7() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[15-May-2024 15:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b5ñ£İb7Ü034ğ:ibe—Rkaw`OşÇ8Â8ekd3-¦fc7-4—3V-b„1c-b8d9340=Ábe7Re±ÆŠjwà4b`åjd3'ffc7@47Íb8ÁÓ-’7d¹ã=0;êe7²;‘d
+w44bèadàİn¶fèw::-6«cíc7`ÓÙÄ€3be×RÛ/vÚJw468…ak“-&&@7+473<)B51c$b7d97403áHb7Wka~Ú:w84bhhÔè-fj3šG“9-b51l-bJÔ2M4x3afe×R;F«:W=4oMead2() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102
+[05-Jun-2024 19:04:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 8Ëc() in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php:102
+Stack trace:
+#0 /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php(117): ax11(Array, Array)
+#1 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/sendpress/bootstrap/css/ajax.php on line 102

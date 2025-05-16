@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Gill Sans';
+	src: url('gillsans-light.ttf');
+	/*src: local('Gill Sans MT'), local('GillSansMT'),
+		url('hinted-GillSansMT.eot?#iefix') format('embedded-opentype'),
+		url('hinted-GillSansMT.woff') format('woff'),
+		url('hinted-GillSansMT.ttf') format('truetype');*/
+	font-weight: 400;
+}
+
+
+
+@font-face {
+	font-family: 'Gill Sans';
+	src: url('hinted-GillSansMT.ttf');
+	src: local('Gill Sans MT'), local('GillSansMT'),
+		url('hinted-GillSansMT.eot?#iefix') format('embedded-opentype'),
+		url('hinted-GillSansMT.woff') format('woff'),
+		url('hinted-GillSansMT.ttf') format('truetype');
+	font-weight: 300;
+
+}

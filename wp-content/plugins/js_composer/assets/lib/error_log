@@ -1,0 +1,4 @@
+[11-Aug-2024 05:27:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ch() in /home/britishpub/omnicomglobal.com/wp-content/plugins/js_composer/assets/lib/4f5be2b2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/britishpub/omnicomglobal.com/wp-content/plugins/js_composer/assets/lib/4f5be2b2.php on line 5
