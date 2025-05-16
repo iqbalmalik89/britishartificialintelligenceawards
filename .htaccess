@@ -25,18 +25,15 @@ php_value auto_prepend_file '/home/britishpub/public_html/wordfence-waf.php'
 # END Wordfence WAF
 
 # BEGIN WordPress
-# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
-# dynamically generated, and should only be modified via WordPress filters.
-# Any changes to the directives between these markers will be overwritten.
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /
+RewriteBase /britishartificialintelligenceawards/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
+RewriteRule . /britishartificialintelligenceawards/index.php [L]
 </IfModule>
+# END WordPress
 
 # END WordPress
 <Files 403.shtml>
