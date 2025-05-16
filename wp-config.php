@@ -20,6 +20,11 @@
  * @package WordPress
  */
 
+
+define('WP_HOME', 'http://project.codekernal.com/britishartificialintelligenceawards');
+define('WP_SITEURL', 'http://project.codekernal.com/britishartificialintelligenceawards');
+
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'britishartificial');
